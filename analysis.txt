@@ -1,0 +1,1 @@
+Requirement 1: Project should be built using HTML, CSS, and JavaScript.

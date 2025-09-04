@@ -1,3 +1,4 @@
 Requirement 1: Project should be built using HTML, CSS, and JavaScript.
 Requirement 2: Include Tesla logo and navigation menu.
 Requirement 3: Create hero section with Tesla car image/text.
+Requirement 4: Smooth animations for text and sections.

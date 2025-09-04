@@ -1,1 +1,2 @@
 Requirement 1: Project should be built using HTML, CSS, and JavaScript.
+Requirement 2: Include Tesla logo and navigation menu.

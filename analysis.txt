@@ -4,3 +4,4 @@ Requirement 3: Create hero section with Tesla car image/text.
 Requirement 4: Smooth animations for text and sections.
 Requirement 5: Add gradient or dark background.
 Requirement 6: Include buttons for 'Order Now' and 'Learn More'.
+Requirement 7: Make design responsive for mobile and desktop.

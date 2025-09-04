@@ -7,3 +7,4 @@ Requirement 6: Include buttons for 'Order Now' and 'Learn More'.
 Requirement 7: Make design responsive for mobile and desktop.
 Requirement 8: Use JavaScript for smooth scrolling navigation.
 Requirement 9: Animate buttons and interactive elements.
+Requirement 10: Add documentation at the end in README file.
